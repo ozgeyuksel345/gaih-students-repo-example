@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GAIH Student Repo 
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021  
@@ -20,5 +20,5 @@ Some python libraries
 ---
 
 ### Certification
-![](img/certificate_ex.png)
+![](Py_Certificate.png)
 
